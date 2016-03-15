@@ -3,10 +3,11 @@
 
 # TEAM
  osnat orchan
+
     <name> -- <role> -- <twitter>
 
 # THANKS
-
+thanks to all students
     <name>
 
 # TECHNOLOGY COLOPHON
